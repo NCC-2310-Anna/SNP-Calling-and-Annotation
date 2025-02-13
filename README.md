@@ -2,7 +2,7 @@
 This pipeline consists of three subparts: SNP Calling, SNP Annotation and Impact prediction.
 The python scripts are for the SNP Annotation pipeline
 
-#Packages/Tools required
+## Packages/Tools required
 - bcfttols 1.19 [Link](https://github.com/samtools/bcftools)
 - freebayes 1.3.7 [Link](https://github.com/freebayes/freebayes)
 - lofreq 2.1.3.1 [Link](http://csb5.github.io/lofreq/)
